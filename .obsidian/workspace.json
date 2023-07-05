@@ -20,20 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "e12f841cf25d0545",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "df5a667bf0b7a185",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -99,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "地理-Geography/1. 自然地理/地质地理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "地理-Geography/1. 自然地理/地质地理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "地理-Geography/1. 自然地理/地质地理.md"
+              }
             }
           }
         ]
@@ -159,7 +149,7 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "df5a667bf0b7a185",
+  "active": "7afd2a156342fdcc",
   "lastOpenFiles": [
     "地理-Geography/1. 自然地理/地质地理.md",
     "personal-noting/README.md",
