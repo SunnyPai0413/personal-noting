@@ -1,0 +1,12 @@
+{
+  "spellcheckLanguages": null,
+  "newFileLocation": "current",
+  "newLinkFormat": "absolute",
+  "attachmentFolderPath": "./attachments",
+  "alwaysUpdateLinks": true,
+  "vimMode": false,
+  "legacyEditor": false,
+  "showLineNumber": true,
+  "smartIndentList": false,
+  "useTab": true
+}
