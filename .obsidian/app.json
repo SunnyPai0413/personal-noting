@@ -8,5 +8,6 @@
   "legacyEditor": false,
   "showLineNumber": true,
   "smartIndentList": false,
-  "useTab": true
+  "useTab": true,
+  "showUnsupportedFiles": true
 }
