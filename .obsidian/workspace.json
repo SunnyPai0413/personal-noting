@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ecef1f798a545690",
+        "id": "572bd8c810277b1b",
         "type": "tabs",
         "children": [
           {
-            "id": "537111750a69e4e8",
+            "id": "7eb3f72282978520",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "化学-Chemistry/1. 化学概念/2. 离子反应.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "化学-Chemistry/1. 化学概念/2. 离子反应.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "化学-Chemistry/1. 化学概念/2. 离子反应.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "化学-Chemistry/1. 化学概念/2. 离子反应.md"
+              }
             }
           }
         ]
@@ -140,11 +148,11 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "537111750a69e4e8",
+  "active": "7eb3f72282978520",
   "lastOpenFiles": [
-    "化学-Chemistry/1. 化学概念/3. 氧化还原反应.md",
-    "化学-Chemistry/1. 化学概念/2. 离子反应.md",
     "化学-Chemistry/1. 化学概念/1. 物质分类.md",
+    "化学-Chemistry/1. 化学概念/2. 离子反应.md",
+    "化学-Chemistry/1. 化学概念/3. 氧化还原反应.md",
     "化学-Chemistry/1. 化学概念/attachments/氧化还原反应.单线桥法.png",
     "化学-Chemistry/1. 化学概念/attachments/屏幕截图 2023-07-07 154550.png",
     "化学-Chemistry/1. 化学概念/attachments/氧化还原反应.双线桥法.png",
