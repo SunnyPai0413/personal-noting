@@ -22,18 +22,18 @@
         ]
       },
       {
-        "id": "960563e53b08625b",
+        "id": "77585f18803b7078",
         "type": "tabs",
         "children": [
           {
-            "id": "d5e771449e85c474",
+            "id": "fc243d31ee77ef78",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "化学-Chemistry/1. 化学概念/3. 氧化还原反应.md",
-                "mode": "preview",
-                "source": false
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -167,7 +167,7 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "537111750a69e4e8",
+  "active": "fc243d31ee77ef78",
   "lastOpenFiles": [
     "化学-Chemistry/1. 化学概念/2. 离子反应.md",
     "化学-Chemistry/1. 化学概念/3. 氧化还原反应.md",
