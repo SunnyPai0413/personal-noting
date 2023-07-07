@@ -2,3 +2,6 @@ nm
 bf
 fc
 abaf
+ab
+km
+cc

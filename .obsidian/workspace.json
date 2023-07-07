@@ -11,24 +11,28 @@
             "id": "5ca863fe9f58f876",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "地理-Geography/1. 自然地理/地质地理.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
       },
       {
-        "id": "30f07e4e0b5ccef3",
+        "id": "bc9c2cab746ba754",
         "type": "tabs",
         "children": [
           {
-            "id": "a240e225b269fada",
+            "id": "f13ec2bbae7d33e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "化学-Chemistry/1. 化学概念/3. 氧化还原反应.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -99,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "地理-Geography/1. 自然地理/地质地理.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "地理-Geography/1. 自然地理/地质地理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "地理-Geography/1. 自然地理/地质地理.md"
+              }
             }
           }
         ]
@@ -161,9 +169,11 @@
   },
   "active": "5ca863fe9f58f876",
   "lastOpenFiles": [
+    "地理-Geography/1. 自然地理/天文地理.md",
+    "地理-Geography/1. 自然地理/地质地理.md",
+    "化学-Chemistry/1. 化学概念/1. 物质分类.md",
     "化学-Chemistry/1. 化学概念/2. 离子反应.md",
     "化学-Chemistry/1. 化学概念/3. 氧化还原反应.md",
-    "化学-Chemistry/1. 化学概念/1. 物质分类.md",
     "未命名 1.canvas",
     "未命名.canvas",
     "化学-Chemistry/1. 化学概念/attachments/氧化还原反应.单线桥法.png",
@@ -171,7 +181,6 @@
     "化学-Chemistry/1. 化学概念/attachments/氧化还原反应.双线桥法.png",
     "化学-Chemistry/1. 化学概念/attachments/屏幕截图 2023-07-07 154540.png",
     "化学-Chemistry/1. 化学概念/attachments",
-    "地理-Geography/1. 自然地理/天文地理.md",
     "化学-Chemistry/1. 化学概念",
     "化学-Chemistry/新建文件夹",
     "化学-Chemistry",
@@ -180,7 +189,6 @@
     "地理-Geography/3. 区域地理/a.gitkeep",
     "地理-Geography/2. 人文地理/a.gitkeep",
     "地理-Geography/a.gitkeep",
-    "地理-Geography/1. 自然地理/地质地理.md",
     "README.md",
     "地理-Geography/2. 人文地理/新建 文本文档.txt",
     "personal-noting/README.md",
