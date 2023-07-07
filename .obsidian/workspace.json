@@ -11,30 +11,8 @@
             "id": "537111750a69e4e8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "化学-Chemistry/1. 化学概念/2. 离子反应.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "9de87d63f2097131",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8c403be7c72ea3b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "化学-Chemistry/1. 化学概念/1. 物质分类.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -103,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "化学-Chemistry/1. 化学概念/2. 离子反应.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "化学-Chemistry/1. 化学概念/2. 离子反应.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,17 +118,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "化学-Chemistry/1. 化学概念/2. 离子反应.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,9 +142,9 @@
   },
   "active": "537111750a69e4e8",
   "lastOpenFiles": [
-    "化学-Chemistry/1. 化学概念/1. 物质分类.md",
-    "化学-Chemistry/1. 化学概念/2. 离子反应.md",
     "化学-Chemistry/1. 化学概念/3. 氧化还原反应.md",
+    "化学-Chemistry/1. 化学概念/2. 离子反应.md",
+    "化学-Chemistry/1. 化学概念/1. 物质分类.md",
     "化学-Chemistry/1. 化学概念/attachments/氧化还原反应.单线桥法.png",
     "化学-Chemistry/1. 化学概念/attachments/屏幕截图 2023-07-07 154550.png",
     "化学-Chemistry/1. 化学概念/attachments/氧化还原反应.双线桥法.png",
