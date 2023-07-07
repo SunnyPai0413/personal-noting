@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "化学-Chemistry/1. 化学概念/3. 氧化还原反应.md",
-                "mode": "source",
+                "file": "化学-Chemistry/1. 化学概念/2. 离子反应.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -31,8 +31,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "化学-Chemistry/1. 化学概念/3. 氧化还原反应.md",
-                "mode": "preview",
+                "file": "化学-Chemistry/1. 化学概念/1. 物质分类.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "化学-Chemistry/1. 化学概念/3. 氧化还原反应.md",
+                "file": "化学-Chemistry/1. 化学概念/1. 物质分类.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "化学-Chemistry/1. 化学概念/3. 氧化还原反应.md",
+                "file": "化学-Chemistry/1. 化学概念/1. 物质分类.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "化学-Chemistry/1. 化学概念/3. 氧化还原反应.md"
+                "file": "化学-Chemistry/1. 化学概念/1. 物质分类.md"
               }
             }
           }
@@ -169,13 +169,13 @@
   },
   "active": "8c403be7c72ea3b3",
   "lastOpenFiles": [
+    "化学-Chemistry/1. 化学概念/3. 氧化还原反应.md",
+    "化学-Chemistry/1. 化学概念/2. 离子反应.md",
     "化学-Chemistry/1. 化学概念/attachments/氧化还原反应.单线桥法.png",
     "化学-Chemistry/1. 化学概念/attachments/屏幕截图 2023-07-07 154550.png",
     "化学-Chemistry/1. 化学概念/attachments/氧化还原反应.双线桥法.png",
     "化学-Chemistry/1. 化学概念/attachments/屏幕截图 2023-07-07 154540.png",
     "化学-Chemistry/1. 化学概念/attachments",
-    "化学-Chemistry/1. 化学概念/2. 离子反应.md",
-    "化学-Chemistry/1. 化学概念/3. 氧化还原反应.md",
     "化学-Chemistry/1. 化学概念/1. 物质分类.md",
     "地理-Geography/1. 自然地理/天文地理.md",
     "化学-Chemistry/1. 化学概念",
