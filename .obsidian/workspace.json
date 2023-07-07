@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "572bd8c810277b1b",
+        "id": "e55c102ce63cc6eb",
         "type": "tabs",
         "children": [
           {
-            "id": "7eb3f72282978520",
+            "id": "8b976076fd3a78e5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "化学-Chemistry/1. 化学概念/2. 离子反应.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,14 +81,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "化学-Chemistry/1. 化学概念/2. 离子反应.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "化学-Chemistry/1. 化学概念/2. 离子反应.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "化学-Chemistry/1. 化学概念/2. 离子反应.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -138,7 +130,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian42-brat:BRAT": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -148,11 +139,13 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "7eb3f72282978520",
+  "active": "8b976076fd3a78e5",
   "lastOpenFiles": [
-    "化学-Chemistry/1. 化学概念/1. 物质分类.md",
+    "未命名 1.canvas",
+    "未命名.canvas",
     "化学-Chemistry/1. 化学概念/2. 离子反应.md",
     "化学-Chemistry/1. 化学概念/3. 氧化还原反应.md",
+    "化学-Chemistry/1. 化学概念/1. 物质分类.md",
     "化学-Chemistry/1. 化学概念/attachments/氧化还原反应.单线桥法.png",
     "化学-Chemistry/1. 化学概念/attachments/屏幕截图 2023-07-07 154550.png",
     "化学-Chemistry/1. 化学概念/attachments/氧化还原反应.双线桥法.png",
