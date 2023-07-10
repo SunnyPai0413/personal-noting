@@ -29,4 +29,3 @@ $$ \begin{flalign}& Na_{2}CO_{3}\xleftharpoondown[\quad\quad\triangle(或NaOH)\q
 
 碳酸钠粉末遇水生成含有结晶水的水合碳酸钠（$Na_2CO_3\cdot xH_2O$）
 水合物形式有三种：$Na_2CO_3\cdot H_2O，Na_2CO_3\cdot 7H_2O，Na_2CO_3\cdot 10H_2O$
-
