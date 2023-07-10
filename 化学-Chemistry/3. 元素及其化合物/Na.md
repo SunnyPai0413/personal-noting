@@ -3,7 +3,7 @@
 2. 化学性质：
 	1. 位置：
 	2. 结构：核电荷数+11，核外电子排布-2-8-1
-	3. 性质：易失电子，性质非常活泼，具有强氧化性
+	3. 性质：易失电子，具有很强的金属性，性质非常活泼，具有强还原性
 $$ \begin{flalign}& 2Na+Cl_2\xlongequal[]{点燃}2NaCl，4Na+O_2\xlongequal[]{}2Na_{2}O，2Na+O_2\xlongequal[]{点燃}Na_2O_2 \tag{与非金属反应} &\end{flalign} $$
 $$ \begin{flalign}& 2Na+2H_2O\xlongequal[]{}2NaOH+H_2\uparrow\tag{与水反应，实质是和水中电离产生的氢离子反应} &\end{flalign} $$
 $$ \begin{flalign}& 2Na+2H^+\xlongequal[]{}2Na^++H_2\uparrow\tag{与酸反应} &\end{flalign} $$
