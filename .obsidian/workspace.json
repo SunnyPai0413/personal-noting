@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "地理-Geography/1. 自然地理/地质地理.md",
+                "file": "历史-History/世界历史/1. 古代文明.md",
                 "mode": "source",
                 "source": true
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "地理-Geography/1. 自然地理/地质地理.md",
+                "file": "历史-History/世界历史/1. 古代文明.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "地理-Geography/1. 自然地理/地质地理.md",
+                "file": "历史-History/世界历史/1. 古代文明.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "地理-Geography/1. 自然地理/地质地理.md"
+                "file": "历史-History/世界历史/1. 古代文明.md"
               }
             }
           }
@@ -169,9 +169,15 @@
   },
   "active": "5ca863fe9f58f876",
   "lastOpenFiles": [
+    "地理-Geography/1. 自然地理/地质地理.md",
+    "历史-History/世界历史/1. 古代文明.md",
+    "历史-History/世界历史",
+    "历史-History/新建文件夹",
+    "历史-History/未命名.md",
+    "历史-History",
+    "新建文件夹",
     "化学-Chemistry/1. 化学概念/1. 物质分类.md",
     "地理-Geography/1. 自然地理/天文地理.md",
-    "地理-Geography/1. 自然地理/地质地理.md",
     "化学-Chemistry/1. 化学概念/2. 离子反应.md",
     "化学-Chemistry/1. 化学概念/3. 氧化还原反应.md",
     "未命名 1.canvas",
@@ -184,13 +190,9 @@
     "化学-Chemistry/1. 化学概念",
     "化学-Chemistry/新建文件夹",
     "化学-Chemistry",
-    "新建文件夹",
     "语文/a.gitkeep",
     "地理-Geography/3. 区域地理/a.gitkeep",
-    "地理-Geography/2. 人文地理/a.gitkeep",
-    "地理-Geography/a.gitkeep",
     "README.md",
-    "地理-Geography/2. 人文地理/新建 文本文档.txt",
     "personal-noting/README.md",
     "语文/阅读/论述类文本.md",
     "地理-Geography/未命名.canvas",
