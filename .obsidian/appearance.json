@@ -4,5 +4,6 @@
   "enabledCssSnippets": [],
   "cssTheme": "Lapis",
   "translucency": true,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "baseFontSize": 16
 }

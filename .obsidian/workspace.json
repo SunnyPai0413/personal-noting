@@ -14,24 +14,6 @@
               "type": "markdown",
               "state": {
                 "file": "化学-Chemistry/3. 元素及其化合物/Na.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "b4a5ab3c4ca98e6b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cbea057c2f109f54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "化学-Chemistry/3. 元素及其化合物/Na.md",
                 "mode": "preview",
                 "source": true
               }
@@ -169,12 +151,13 @@
   },
   "active": "da8a1f4f47c361c5",
   "lastOpenFiles": [
-    "化学-Chemistry/1. 化学概念/2. 离子反应.md",
     "化学-Chemistry/1. 化学概念/3. 氧化还原反应.md",
-    "化学-Chemistry/3. 元素及其化合物/Na.md",
-    "地理-Geography/1. 自然地理/天文地理.md",
-    "地理-Geography/1. 自然地理/地质地理.md",
     "化学-Chemistry/1. 化学概念/1. 物质分类.md",
+    "化学-Chemistry/1. 化学概念/2. 离子反应.md",
+    "化学-Chemistry/3. 元素及其化合物/Na.md",
+    "地理-Geography/1. 自然地理/地质地理.md",
+    "地理-Geography/1. 自然地理/天文地理.md",
+    "语文/阅读/论述类文本.md",
     "化学-Chemistry/3. 元素及其化合物/attachments",
     "历史-History/世界历史/3. 中古时期.md",
     "化学-Chemistry/3. 元素及其化合物",
@@ -197,7 +180,6 @@
     "化学-Chemistry/1. 化学概念",
     "README.md",
     "personal-noting/README.md",
-    "语文/阅读/论述类文本.md",
     "地理-Geography/未命名.canvas",
     "语文/阅读/未命名.md"
   ]
