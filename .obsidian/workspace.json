@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "历史-History/世界历史/3. 中古时期.md",
+                "file": "历史-History/世界历史/2. 文明扩展和古代帝国.md",
                 "mode": "source",
                 "source": true
               }
@@ -31,8 +31,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "历史-History/世界历史/3. 中古时期.md",
-                "mode": "preview",
+                "file": "历史-History/世界历史/1. 古代文明.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "历史-History/世界历史/3. 中古时期.md",
+                "file": "历史-History/世界历史/1. 古代文明.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "历史-History/世界历史/3. 中古时期.md",
+                "file": "历史-History/世界历史/1. 古代文明.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "历史-History/世界历史/3. 中古时期.md"
+                "file": "历史-History/世界历史/1. 古代文明.md"
               }
             }
           }
