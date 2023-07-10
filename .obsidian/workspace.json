@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "历史-History/世界历史/2. 文明扩展和古代帝国.md",
+                "file": "历史-History/世界历史/3. 中古时期.md",
                 "mode": "source",
                 "source": true
               }
@@ -22,16 +22,16 @@
         ]
       },
       {
-        "id": "e1d3660892b54d5c",
+        "id": "0c971b44c986ff1e",
         "type": "tabs",
         "children": [
           {
-            "id": "38a67c52884ee3a1",
+            "id": "3b7b0f257d1be377",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "历史-History/世界历史/2. 文明扩展和古代帝国.md",
+                "file": "历史-History/世界历史/3. 中古时期.md",
                 "mode": "preview",
                 "source": true
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "历史-History/世界历史/2. 文明扩展和古代帝国.md",
+                "file": "历史-History/世界历史/3. 中古时期.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "历史-History/世界历史/2. 文明扩展和古代帝国.md",
+                "file": "历史-History/世界历史/3. 中古时期.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "历史-History/世界历史/2. 文明扩展和古代帝国.md"
+                "file": "历史-History/世界历史/3. 中古时期.md"
               }
             }
           }
@@ -171,6 +171,7 @@
   "lastOpenFiles": [
     "历史-History/世界历史/1. 古代文明.md",
     "历史-History/世界历史/2. 文明扩展和古代帝国.md",
+    "历史-History/世界历史/3. 中古时期.md",
     "历史-History/2. 古代帝国.md",
     "地理-Geography/1. 自然地理/地质地理.md",
     "历史-History/世界历史",
