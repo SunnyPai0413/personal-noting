@@ -25,4 +25,8 @@ NaOH来源广泛，是一种最常用的一元强碱，有强腐蚀性，具有�
 | 碳酸氢钠 | $NaHCO_3$  | 小苏打     | 碱性         | 离子化合物 | 白色固体   | 可溶于水 | $NaHCO_3+HCl\xlongequal[]{}NaCl+H_2O+CO_2\uparrow$    | 受热易分解 | 食品发酵、泡沫灭火剂、治疗胃酸过多 |
 
 $$ \begin{flalign}& 2NaHCO_3\xlongequal[]{\triangle}Na_2CO_3+CO_2+H_2O\tag{碳酸氢钠受热分解方程式} &\end{flalign} $$
-$$ \begin{flalign}& Na_{2}CO_{3}\xleftharpoondown[\quad\quad\triangle(或NaOH)\quad\quad]{\xrightharpoonup[]{CO_{2}和H_{2}O（或少量H^+）}}NaHCO_{3} &\end{flalign}\tag{碳酸钠和碳酸氢钠相互转化} $$
+$$ \begin{flalign}& Na_{2}CO_{3}\xleftharpoondown[\quad\quad\triangle(或NaOH)\quad\quad]{\xrightharpoonup[]{CO_{2}和H_{2}O（或少量H^+）}}NaHCO_{3} &\end{flalign}\tag{碳酸钠和碳酸氢钠相互转化（水解）} $$
+
+碳酸钠粉末遇水生成含有结晶水的水合碳酸钠（$Na_2CO_3\cdot xH_2O$）
+水合物形式有三种：$Na_2CO_3\cdot H_2O，Na_2CO_3\cdot 7H_2O，Na_2CO_3\cdot 10H_2O$
+
