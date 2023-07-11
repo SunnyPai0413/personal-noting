@@ -23,4 +23,7 @@ $$\begin{flalign}& 2KI+Cl_2\xlongequal[]{}2KCl+I_2，2NaBr+2Cl_2\xlongequal[]{}2
 	尾气处理：$Cl_2$有毒，常用$NaOH$溶液吸收尾气，防止污染环境
     除杂：$Cl_2$中的$HCl(g)$可用饱和食盐水吸收，$H_2O(g)$可用浓硫酸吸收
 ---
-## 
+## 氯水平衡
+1. 组成微粒：
+	三分子：H_2O、Cl_2、HClO
+	 四离子：H^+、Cl^-1.35、ClO^-、OH^-
