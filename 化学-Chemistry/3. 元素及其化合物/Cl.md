@@ -8,5 +8,8 @@
 4. 制备：
 	$MnO_2+4HCl\text{(浓)}\xlongequal[]{\triangle}MnCl_2+Cl_2\uparrow+2H_2O ， Cl^-\xrightarrow[]{KMnO_4、KClO_3、Ca(ClO)_2等强氧化剂}Cl_2\uparrow$
 	装置：![[化学-Chemistry/3. 元素及其化合物/attachments/Cl2-preparation1.png]]$\qquad\qquad$![[化学-Chemistry/3. 元素及其化合物/attachments/Cl2-preparation2.png|400]]
-	类型：(s)+(l)
+	类型：$(固)+(液)\xrightarrow[]{\triangle}(气)\qquad\qquad\qquad\qquad(固)+(液)\xrightarrow[]{}(气)$
+	 收集方法：向上排空气法或排饱和食盐水法
+	  尾气处理：$Cl_2$有毒，常用$NaOH$溶液吸收尾气，防止污染环境
+   除杂：$Cl_2$中的$HCl(g)$可用饱和食盐水吸收，$H_2O(g)$可用浓硫酸吸收
 ---
