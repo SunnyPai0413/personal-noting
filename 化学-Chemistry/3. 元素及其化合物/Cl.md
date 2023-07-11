@@ -9,11 +9,16 @@
   $$ \begin{flalign}& H_2+Cl_2\xlongequal[]{点燃或光照}2HCl，Si+4Cl_2\xlongequal[]{高温}SiCl_4\tag{氯气与非金属反应} &\end{flalign} $$
 $$ \begin{flalign}& Cl_2+H_2O\rightleftharpoons{}HCl+HClO \tag{氯水反应}&\end{flalign} $$
 $$ \begin{flalign}& Cl_2+2NaOH\xlongequal{}NaCl+NaClO+H_2O ， 2Cl_2+2Ca(OH)_2\xlongequal{}CaCl_2+Ca(ClO)_2+2H_2O\tag{氯气与碱反应}&\end{flalign} $$
-\begin{flalign}& 2KI+Cl_2\xlongequal[]{}2KCl+I_2，2NaBr+3Cl_2\xlongequal[]{\triangle}2FeCl_3，Cu+Cl_2\xlongequal[]{\triangle}CuCl_2\tag{氯气与金属反应} &\end{flalign}
-4. 制备：
-	$MnO_2+4HCl\text{(浓)}\xlongequal[]{\triangle}MnCl_2+Cl_2\uparrow+2H_2O ， Cl^-\xrightarrow[]{KMnO_4、KClO_3、Ca(ClO)_2等强氧化剂}Cl_2\uparrow$
-	装置：![[化学-Chemistry/3. 元素及其化合物/attachments/Cl2-preparation1.png]]$\qquad\qquad$![[化学-Chemistry/3. 元素及其化合物/attachments/Cl2-preparation2.png|400]]
-	类型：$(固)+(液)\xrightarrow[]{\triangle}(气)\qquad\qquad\qquad\qquad(固)+(液)\xrightarrow[]{}(气)$
+$$\begin{flalign}& 2KI+Cl_2\xlongequal[]{}2KCl+I_2，2NaBr+2Cl_2\xlongequal[]{}2NaCl+Br_2，2FeCl_2+Cl_2\xlongequal[]{}2FeCl_3\tag{氯气与还原性化合物反应} &\end{flalign}$$
+4. 氯气制备：
+1. 加热：
+方式1：$MnO_2+4HCl\text{(浓)}\xlongequal[]{\triangle}MnCl_2+Cl_2\uparrow+2H_2O$
+	装置1：![[化学-Chemistry/3. 元素及其化合物/attachments/Cl2-preparation1.png]]
+	类型1：$(固)+(液)\xrightarrow[]{\triangle}(气)$
+ 2. 不加热：
+方式2：$Cl^-\xrightarrow[]{KMnO_4、KClO_3、Ca(ClO)_2等强氧化剂}Cl_2\uparrow$
+ 装置2：![[化学-Chemistry/3. 元素及其化合物/attachments/Cl2-preparation2.png|400]]
+ 类型2$(固)+(液)\xrightarrow[]{}(气)$
 	 收集方法：向上排空气法或排饱和食盐水法
 	  尾气处理：$Cl_2$有毒，常用$NaOH$溶液吸收尾气，防止污染环境
    除杂：$Cl_2$中的$HCl(g)$可用饱和食盐水吸收，$H_2O(g)$可用浓硫酸吸收
