@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "地理-Geography/1. 自然地理/地质地理.md",
+                "file": "地理-Geography/1. 自然地理/天文地理.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "地理-Geography/1. 自然地理/地质地理.md",
+                "file": "地理-Geography/1. 自然地理/天文地理.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "地理-Geography/1. 自然地理/地质地理.md",
+                "file": "地理-Geography/1. 自然地理/天文地理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "地理-Geography/1. 自然地理/地质地理.md"
+                "file": "地理-Geography/1. 自然地理/天文地理.md"
               }
             }
           }
@@ -152,6 +152,18 @@
   },
   "active": "da8a1f4f47c361c5",
   "lastOpenFiles": [
+    "地理-Geography/1. 自然地理/3. 气象地理",
+    "地理-Geography/1. 自然地理/4. 生物地理",
+    "地理-Geography/1. 自然地理/3. 生物地理",
+    "地理-Geography/1. 自然地理/2. (古)地质地理",
+    "地理-Geography/1. 自然地理/1. 天文地理",
+    "地理-Geography/1. 自然地理/0. 天文地理",
+    "地理-Geography/1. 自然地理/环境地理",
+    "地理-Geography/1. 自然地理/新建文件夹",
+    "地理-Geography/1. 自然地理/气象地理",
+    "地理-Geography/1. 自然地理/地质地理",
+    "地理-Geography/1. 自然地理/天文地理",
+    "地理-Geography/1. 自然地理/地质地理.md",
     "地理-Geography/1. 自然地理/天文地理.md",
     "化学-Chemistry/3. 元素及其化合物/Cl.md",
     "化学-Chemistry/模板.md",
@@ -165,7 +177,6 @@
     "化学-Chemistry/3. 元素及其化合物/attachments/Cl2-preparation1.png",
     "化学-Chemistry/3. 元素及其化合物/attachments/Cl-.png",
     "化学-Chemistry/3. 元素及其化合物/attachments/Pasted image 20230711124720.png",
-    "化学-Chemistry/3. 元素及其化合物/attachments",
     "历史-History/世界历史/4. 资本主义发展时期/12. 资本主义制度的确立和扩展.md",
     "历史-History/世界历史/4. 资本主义发展时期/9. 宗教改革和科学革命.md",
     "历史-History/世界历史/4. 资本主义发展时期/10. 启蒙运动.md",
@@ -180,19 +191,8 @@
     "历史-History/世界历史/1. 古代文明时期/2. 文明扩展和古代帝国.md",
     "历史-History/世界历史/1. 古代文明.md",
     "历史-History/世界历史/3. 中古时期.md",
-    "历史-History/~$学考必备.docx",
     "历史-History/世界历史/未命名.md",
-    "历史-History/世界历史/8. 苏联解体和多极化世界",
-    "历史-History/世界历史/新建文件夹",
-    "历史-History/世界历史/7. 雅尔塔体系和两极格局时期",
-    "历史-History/世界历史/7. 冷战和两极格局",
-    "历史-History/世界历史/6. 两次世界大战时期",
-    "历史-History/世界历史/5. 两次工业革命时期",
-    "历史-History/世界历史/4. 资本主义发展时期",
-    "历史-History/世界历史/4. 资本主义发展和确立",
     "历史-History/世界历史/中古时期/3. 中古时期.md",
-    "历史-History/世界历史/古代文明时期/2. 文明扩展和古代帝国.md",
-    "历史-History/世界历史/古代文明时期/1. 古代文明.md",
     "未命名 1.canvas",
     "未命名.canvas",
     "化学-Chemistry/1. 化学概念/attachments/氧化还原反应.单线桥法.png",
