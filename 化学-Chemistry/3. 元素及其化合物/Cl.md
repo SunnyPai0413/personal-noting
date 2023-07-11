@@ -26,8 +26,8 @@ $$\begin{flalign}& 2KI+Cl_2\xlongequal[]{}2KCl+I_2，2NaBr+2Cl_2\xlongequal[]{}2
 ## 氯水平衡
 1. 组成微粒：
 	三分子：H_2O、Cl_2、HClO
-	 四离子：H^+、Cl^、ClO^-、OH^-
+	 四离子：H^+、OH^-、Cl^-、ClO^-
 2. 平衡式
-$Cl_2+H_2O\rightleftharpoons{}H^++Cl^-+HClO$Cl-:+1.61
+$Cl_2+H_2O\rightleftharpoons{}H^++Cl^-+HClO$ 
 $HClO\rightleftharpoons{}H^++ClO^-$
 $H_2O\rightleftharpoons{}H^++OH^-$
