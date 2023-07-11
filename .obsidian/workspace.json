@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "570c8940db519813",
@@ -150,7 +151,7 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "da8a1f4f47c361c5",
+  "active": "149cc6b0cdf093a3",
   "lastOpenFiles": [
     "化学-Chemistry/3. 元素及其化合物/Na.md",
     "化学-Chemistry/3. 元素及其化合物/Cl.md",
