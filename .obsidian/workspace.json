@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "历史-History/世界历史/3. 文艺复兴和探索时代/6. 文艺复兴.md",
+                "file": "历史-History/世界历史/1. 古代文明时期/2. 文明扩展和古代帝国.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "历史-History/世界历史/3. 文艺复兴和探索时代/6. 文艺复兴.md",
+                "file": "历史-History/世界历史/1. 古代文明时期/2. 文明扩展和古代帝国.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "历史-History/世界历史/3. 文艺复兴和探索时代/6. 文艺复兴.md",
+                "file": "历史-History/世界历史/1. 古代文明时期/2. 文明扩展和古代帝国.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "历史-History/世界历史/3. 文艺复兴和探索时代/6. 文艺复兴.md"
+                "file": "历史-History/世界历史/1. 古代文明时期/2. 文明扩展和古代帝国.md"
               }
             }
           }
@@ -151,10 +151,17 @@
   },
   "active": "da8a1f4f47c361c5",
   "lastOpenFiles": [
-    "历史-History/世界历史/2. 中古时期/3. 中古时期.md",
+    "历史-History/世界历史/1. 古代文明时期/1. 古代文明.md",
+    "历史-History/世界历史/1. 古代文明时期/2. 文明扩展和古代帝国.md",
+    "历史-History/世界历史/2. 中古时期/3. 中古时期的欧洲.md",
+    "历史-History/世界历史/3. 中古时期.md",
+    "历史-History/世界历史/2. 中古时期/4. 中古时期的亚洲.md",
+    "历史-History/世界历史/2. 中古时期/5. 中古时期的非洲和美洲.md",
     "历史-History/世界历史/3. 文艺复兴和探索时代/6. 文艺复兴.md",
     "历史-History/世界历史/3. 文艺复兴和探索时代/5. 早期殖民扩张.md",
     "历史-History/世界历史/3. 文艺复兴和探索时代/4. 新航路开辟.md",
+    "历史-History/世界历史/4. 资本主义发展时期/7. 宗教改革和近代科学的兴起.md",
+    "历史-History/世界历史/4. 资本主义发展时期/8. 启蒙运动.md",
     "历史-History/~$学考必备.docx",
     "化学-Chemistry/3. 元素及其化合物/Cl.md",
     "历史-History/世界历史/未命名.md",
@@ -168,8 +175,6 @@
     "历史-History/世界历史/4. 资本主义发展和确立",
     "历史-History/世界历史/4. 资产阶级革命时期",
     "历史-History/世界历史/中古时期/3. 中古时期.md",
-    "历史-History/世界历史/1. 古代文明时期/2. 文明扩展和古代帝国.md",
-    "历史-History/世界历史/1. 古代文明时期/1. 古代文明.md",
     "历史-History/世界历史/古代文明时期/2. 文明扩展和古代帝国.md",
     "历史-History/世界历史/古代文明时期/1. 古代文明.md",
     "化学-Chemistry/3. 元素及其化合物/Na.md",
@@ -180,19 +185,14 @@
     "地理-Geography/1. 自然地理/地质地理.md",
     "地理-Geography/1. 自然地理/天文地理.md",
     "语文/阅读/论述类文本.md",
-    "历史-History/世界历史/3. 中古时期.md",
     "历史-History/世界历史/2. 文明扩展和古代帝国.md",
     "历史-History/世界历史/1. 古代文明.md",
-    "历史-History/2. 古代帝国.md",
     "未命名 1.canvas",
     "未命名.canvas",
     "化学-Chemistry/1. 化学概念/attachments/氧化还原反应.单线桥法.png",
     "化学-Chemistry/1. 化学概念/attachments/屏幕截图 2023-07-07 154550.png",
     "化学-Chemistry/1. 化学概念/attachments/氧化还原反应.双线桥法.png",
     "化学-Chemistry/1. 化学概念/attachments/屏幕截图 2023-07-07 154540.png",
-    "README.md",
-    "personal-noting/README.md",
-    "地理-Geography/未命名.canvas",
-    "语文/阅读/未命名.md"
+    "地理-Geography/未命名.canvas"
   ]
 }
