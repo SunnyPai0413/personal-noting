@@ -26,7 +26,7 @@ $$\begin{flalign}& 2KI+Cl_2\xlongequal[]{}2KCl+I_2，2NaBr+2Cl_2\xlongequal[]{}2
 ## 氯水平衡
 1. 组成微粒：
 	三分子：$H_2O、Cl_2、HClO$
-	 四离子：$H^+、OH^-、Cl^-、ClO^-$
+	四离子：$H^+、OH^-、Cl^-、ClO^-$
 2. 平衡式：
 	$Cl_2+H_2O\rightleftharpoons{}H^++Cl^-+HClO$ 
 	$HClO\rightleftharpoons{}H^++ClO^-$
@@ -40,7 +40,13 @@ $$\begin{flalign}& 2KI+Cl_2\xlongequal[]{}2KCl+I_2，2NaBr+2Cl_2\xlongequal[]{}2
 	| 应用           | 制备$Cl_2$收集和除杂方式 | 次氯酸与盐酸反应制备$Cl_2$ | 尾气处理、漂白液 | 漂白粉       | 制高浓度$HClO$ | 氯水避光保存，现用现配 |
 4. 性质：
 	1. $Cl_2$氧化性：和金属以及常见还原剂反应
-	 2. $Cl^-$生成沉淀：$AgNO_3$和稀硝酸检验
-	  3. $HClO$不稳定性：强光下产生气泡，长时间放置会变质成稀盐酸
-	   4. $HClO$强氧化性：使湿润的有色布条或品红溶液褪色、紫色石蕊溶液先变红后褪色
+	2. $Cl^-$生成沉淀：$AgNO_3$和稀硝酸检验
+	3. $HClO$不稳定性：强光下产生气泡，长时间放置会变质成稀盐酸
+	4. $HClO$强氧化性：使湿润的有色布条或品红溶液褪色、紫色石蕊溶液先变红后褪色
 	5. $H^+$酸性
+ ---
+##  $Cl^-的检验$
+1. 原理：离子共存
+	 $$ \begin{flalign}& Cl^-+Ag^+\xlongequal[]{}AgCl \downarrow &\end{flalign} $$
+2. 检测前硝酸酸化原因：排除碳酸等干扰
+	
