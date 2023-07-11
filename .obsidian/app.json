@@ -9,5 +9,6 @@
   "showLineNumber": true,
   "smartIndentList": false,
   "useTab": true,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "readableLineLength": false
 }
