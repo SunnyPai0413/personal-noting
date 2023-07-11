@@ -49,4 +49,5 @@ $$\begin{flalign}& 2KI+Cl_2\xlongequal[]{}2KCl+I_2，2NaBr+2Cl_2\xlongequal[]{}2
 1. 原理：离子共存
 	 $$ \begin{flalign}& Cl^-+Ag^+\xlongequal[]{}AgCl \downarrow &\end{flalign} $$
 2. 检测前硝酸酸化原因：排除碳酸等干扰
-	
+	$$ \begin{flalign}& CO_3^{2-}+2Ag+\xlongequal[]{}Ag_2CO_3\downarrow \tag{存在干扰} &\end{flalign} $$
+	 $$ \begin{flalign}& Ag_2CO_3+2H^+\xlongequal[]{}2Ag^++CO_2\uparrow+H_2O \tag{$Ag^+和NO_3^{2-}可共存$} &\end{flalign} $$
