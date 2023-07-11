@@ -6,6 +6,7 @@
 	 2. 结构：核电荷数+17，核外电子排布-2-8-7
 	  3. 性质：易失电子，具有较强的非金属性，性质活泼，具有强氧化性
 4. 制备：
-$MnO_2+4HCl\text{(浓)}\xlongequal[]{\triangle}MnCl_2+Cl_2\uparrow+2H_2O$ Cl^-\xrightarrow[]{KMnO_4、KClO_3、Ca(ClO)_2}Cl_2
-	 装置：![[化学-Chemistry/3. 元素及其化合物/attachments/Cl2-preparation1.png]]
+	$MnO_2+4HCl\text{(浓)}\xlongequal[]{\triangle}MnCl_2+Cl_2\uparrow+2H_2O ， Cl^-\xrightarrow[]{KMnO_4、KClO_3、Ca(ClO)_2等强氧化剂}Cl_2\uparrow$
+	装置：![[化学-Chemistry/3. 元素及其化合物/attachments/Cl2-preparation1.png]]$\qquad\qquad$![[化学-Chemistry/3. 元素及其化合物/attachments/Cl2-preparation2.png|400]]
+	类型：(s)+(l)
 ---
