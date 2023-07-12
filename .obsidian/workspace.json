@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "地理-Geography/1. 自然地理/3. 气象地理/大气圈.md",
+                "file": "化学-Chemistry/3. 元素及其化合物/Cl.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "地理-Geography/1. 自然地理/3. 气象地理/大气圈.md",
+                "file": "化学-Chemistry/3. 元素及其化合物/Cl.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "地理-Geography/1. 自然地理/3. 气象地理/大气圈.md",
+                "file": "化学-Chemistry/3. 元素及其化合物/Cl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "地理-Geography/1. 自然地理/3. 气象地理/大气圈.md"
+                "file": "化学-Chemistry/3. 元素及其化合物/Cl.md"
               }
             }
           }
@@ -152,13 +152,13 @@
   },
   "active": "da8a1f4f47c361c5",
   "lastOpenFiles": [
+    "地理-Geography/1. 自然地理/3. 气象地理/大气圈.md",
     "地理-Geography/1. 自然地理/3. 气象地理/attachments/temperature-inversion.png",
     "地理-Geography/1. 自然地理/3. 气象地理/attachments/Pasted image 20230711181738.png",
     "地理-Geography/1. 自然地理/3. 气象地理/attachments/atmosphere-heating.png",
     "地理-Geography/1. 自然地理/3. 气象地理/attachments/Pasted image 20230711180558.png",
     "地理-Geography/1. 自然地理/3. 气象地理/attachments",
     "化学-Chemistry/模板.md",
-    "地理-Geography/1. 自然地理/3. 气象地理/大气圈.md",
     "地理-Geography/1. 自然地理/2. (古)地质地理/地球的地质.md",
     "地理-Geography/1. 自然地理/1. 天文地理/宇宙中的地球.md",
     "地理-Geography/1. 自然地理/地球的地质.md",
@@ -199,7 +199,6 @@
     "未命名 1.canvas",
     "未命名.canvas",
     "化学-Chemistry/1. 化学概念/attachments/氧化还原反应.单线桥法.png",
-    "化学-Chemistry/1. 化学概念/attachments/屏幕截图 2023-07-07 154550.png",
     "地理-Geography/未命名.canvas"
   ]
 }
