@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "化学-Chemistry/3. 元素及其化合物/Cl.md",
-                "mode": "preview",
+                "file": "地理-Geography/1. 自然地理/3. 气象地理/大气圈.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "570c8940db519813",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "化学-Chemistry/3. 元素及其化合物/Cl.md",
+                "file": "地理-Geography/1. 自然地理/3. 气象地理/大气圈.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "化学-Chemistry/3. 元素及其化合物/Cl.md",
+                "file": "地理-Geography/1. 自然地理/3. 气象地理/大气圈.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "化学-Chemistry/3. 元素及其化合物/Cl.md"
+                "file": "地理-Geography/1. 自然地理/3. 气象地理/大气圈.md"
               }
             }
           }
@@ -152,6 +153,7 @@
   },
   "active": "da8a1f4f47c361c5",
   "lastOpenFiles": [
+    "化学-Chemistry/3. 元素及其化合物/Cl.md",
     "地理-Geography/1. 自然地理/3. 气象地理/大气圈.md",
     "地理-Geography/1. 自然地理/3. 气象地理/attachments/temperature-inversion.png",
     "地理-Geography/1. 自然地理/3. 气象地理/attachments/Pasted image 20230711181738.png",
@@ -174,7 +176,6 @@
     "地理-Geography/2. 人文地理/3. 语言、社会",
     "地理-Geography/2. 人文地理/2. 文化、宗教",
     "地理-Geography/1. 自然地理/地质地理.md",
-    "化学-Chemistry/3. 元素及其化合物/Cl.md",
     "化学-Chemistry/3. 元素及其化合物/Na.md",
     "化学-Chemistry/1. 化学概念/2. 离子反应.md",
     "化学-Chemistry/1. 化学概念/3. 氧化还原反应.md",
