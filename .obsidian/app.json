@@ -10,5 +10,8 @@
   "smartIndentList": false,
   "useTab": true,
   "showUnsupportedFiles": true,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "livePreview": false,
+  "strictLineBreaks": false,
+  "tabSize": 4
 }
