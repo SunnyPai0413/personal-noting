@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "地理-Geography/1. 自然地理/3. 气象地理/大气圈.md",
+                "file": "历史-History/世界历史/1. 古代文明时期/1. 古代文明.md",
                 "mode": "source",
                 "source": true
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "570c8940db519813",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "地理-Geography/1. 自然地理/3. 气象地理/大气圈.md",
+                "file": "历史-History/世界历史/1. 古代文明时期/1. 古代文明.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "地理-Geography/1. 自然地理/3. 气象地理/大气圈.md",
+                "file": "历史-History/世界历史/1. 古代文明时期/1. 古代文明.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "地理-Geography/1. 自然地理/3. 气象地理/大气圈.md"
+                "file": "历史-History/世界历史/1. 古代文明时期/1. 古代文明.md"
               }
             }
           }
@@ -153,6 +152,7 @@
   },
   "active": "da8a1f4f47c361c5",
   "lastOpenFiles": [
+    "地理-Geography/1. 自然地理/3. 气象地理/大气圈.md",
     "地理-Geography/1. 自然地理/3. 气象地理/attachments/venturi-effect.png",
     "地理-Geography/1. 自然地理/3. 气象地理/attachments/Pasted image 20230712194726.png",
     "地理-Geography/1. 自然地理/3. 气象地理/attachments/foehn.gif",
@@ -163,9 +163,7 @@
     "地理-Geography/1. 自然地理/3. 气象地理/attachments/mountian-valley-breeze.png",
     "地理-Geography/1. 自然地理/3. 气象地理/attachments/Pasted image 20230712160315.png",
     "地理-Geography/1. 自然地理/3. 气象地理/attachments/sea-land-breeze.png",
-    "地理-Geography/1. 自然地理/3. 气象地理/attachments/Pasted image 20230712155939.png",
     "化学-Chemistry/3. 元素及其化合物/Cl.md",
-    "地理-Geography/1. 自然地理/3. 气象地理/大气圈.md",
     "地理-Geography/1. 自然地理/3. 气象地理/attachments",
     "化学-Chemistry/模板.md",
     "地理-Geography/1. 自然地理/2. (古)地质地理/地球的地质.md",
