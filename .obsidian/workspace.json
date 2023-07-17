@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "570c8940db519813",
@@ -153,8 +152,9 @@
   },
   "active": "da8a1f4f47c361c5",
   "lastOpenFiles": [
-    "历史-History/世界历史/5. 两次工业革命时期/14. 马克思主义的诞生和传播.md",
+    "化学-Chemistry/模板.md",
     "数学-Mathematics/数学逻辑/逻辑符号.md",
+    "历史-History/世界历史/5. 两次工业革命时期/14. 马克思主义的诞生和传播.md",
     "数学-Mathematics/数学逻辑",
     "数学-Mathematics",
     "数学",
@@ -189,7 +189,6 @@
     "历史-History/世界历史/1. 古代文明时期/2. 文明扩展和古代帝国.md",
     "化学-Chemistry/3. 元素及其化合物/Cl.md",
     "地理-Geography/1. 自然地理/3. 气象地理/attachments",
-    "化学-Chemistry/模板.md",
     "地理-Geography/1. 自然地理/2. (古)地质地理/地球的地质.md",
     "地理-Geography/1. 自然地理/1. 天文地理/宇宙中的地球.md",
     "地理-Geography/1. 自然地理/地球的地质.md",
