@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学-Mathematics/逻辑/逻辑符号.md",
+                "file": "数学-Mathematics/数学逻辑/逻辑符号.md",
                 "mode": "source",
                 "source": true
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "570c8940db519813",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数学-Mathematics/逻辑/逻辑符号.md",
+                "file": "数学-Mathematics/数学逻辑/逻辑符号.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学-Mathematics/逻辑/逻辑符号.md",
+                "file": "数学-Mathematics/数学逻辑/逻辑符号.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数学-Mathematics/逻辑/逻辑符号.md"
+                "file": "数学-Mathematics/数学逻辑/逻辑符号.md"
               }
             }
           }
@@ -153,8 +154,8 @@
   "active": "da8a1f4f47c361c5",
   "lastOpenFiles": [
     "历史-History/世界历史/5. 两次工业革命时期/14. 马克思主义的诞生和传播.md",
-    "数学-Mathematics/逻辑/逻辑符号.md",
-    "数学-Mathematics/逻辑",
+    "数学-Mathematics/数学逻辑/逻辑符号.md",
+    "数学-Mathematics/数学逻辑",
     "数学-Mathematics",
     "数学",
     "新建文件夹",
