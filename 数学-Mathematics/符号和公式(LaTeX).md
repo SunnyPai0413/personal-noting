@@ -1,3 +1,4 @@
+空格 \quad
 逻辑非 \neg
 逻辑与 \land
 逻辑或 \lor
