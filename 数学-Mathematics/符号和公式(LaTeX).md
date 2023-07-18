@@ -1,4 +1,5 @@
-空格 \quad
+缩进 \quad
+空格 \space
 逻辑非 \neg
 逻辑与 \land
 逻辑或 \lor
