@@ -12,4 +12,5 @@
 空集 \varnothing
 交集 \cap
 并集 \cup
+差集 \setminus
 常见集合 \mathbb
