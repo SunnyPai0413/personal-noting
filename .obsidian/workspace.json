@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学-Mathematics/数学逻辑/2. 逻辑符号.md",
+                "file": "数学-Mathematics/数学基础/3. 集合.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数学-Mathematics/数学逻辑/2. 逻辑符号.md",
+                "file": "数学-Mathematics/数学基础/3. 集合.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学-Mathematics/数学逻辑/2. 逻辑符号.md",
+                "file": "数学-Mathematics/数学基础/3. 集合.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数学-Mathematics/数学逻辑/2. 逻辑符号.md"
+                "file": "数学-Mathematics/数学基础/3. 集合.md"
               }
             }
           }
@@ -152,7 +152,9 @@
   },
   "active": "da8a1f4f47c361c5",
   "lastOpenFiles": [
-    "数学-Mathematics/数学逻辑/1. 公理系统.md",
+    "数学-Mathematics/数学基础/2. 逻辑符号.md",
+    "数学-Mathematics/数学基础/3. 集合.md",
+    "数学-Mathematics/数学基础/1. 公理系统.md",
     "English/Grammar/1. Generality.md",
     "README.md",
     "English/Grammar",
@@ -161,10 +163,9 @@
     "Englih/新建文件夹",
     "Englih",
     "新建文件夹",
-    "数学-Mathematics/数学逻辑/2. 逻辑符号.md",
     "化学-Chemistry/模板.md",
     "历史-History/世界历史/5. 两次工业革命时期/14. 马克思主义的诞生和传播.md",
-    "数学-Mathematics/数学逻辑",
+    "数学-Mathematics/数学基础",
     "数学-Mathematics",
     "数学",
     "LICENSE",
@@ -197,7 +198,6 @@
     "地理-Geography/1. 自然地理/1. 天文地理/宇宙中的地球.md",
     "地理-Geography/1. 自然地理/地球的地质.md",
     "地理-Geography/1. 自然地理/地球在宇宙.md",
-    "化学-Chemistry/1. 化学概念/1. 物质分类.md",
     "未命名 1.canvas",
     "未命名.canvas",
     "地理-Geography/未命名.canvas"
