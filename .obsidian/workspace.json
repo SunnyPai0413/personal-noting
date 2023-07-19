@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学-Mathematics/数学基础/3. 集合.md",
+                "file": "地理-Geography/1. 自然地理/2. (古)地质地理/地球的地质.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数学-Mathematics/数学基础/3. 集合.md",
+                "file": "地理-Geography/1. 自然地理/2. (古)地质地理/地球的地质.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学-Mathematics/数学基础/3. 集合.md",
+                "file": "地理-Geography/1. 自然地理/2. (古)地质地理/地球的地质.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数学-Mathematics/数学基础/3. 集合.md"
+                "file": "地理-Geography/1. 自然地理/2. (古)地质地理/地球的地质.md"
               }
             }
           }
@@ -152,9 +152,10 @@
   },
   "active": "da8a1f4f47c361c5",
   "lastOpenFiles": [
+    "地理-Geography/1. 自然地理/3. 气象地理/大气圈.md",
+    "数学-Mathematics/数学基础/3. 集合.md",
     "数学-Mathematics/数学基础/2. 逻辑符号.md",
     "数学-Mathematics/数学基础/1. 公理系统.md",
-    "数学-Mathematics/数学基础/3. 集合.md",
     "数学-Mathematics/符号和公式(LaTeX).md",
     "化学-Chemistry/模板.md",
     "数学-Mathematics/数学基础/attachments/Venn-diagram.png",
@@ -178,7 +179,6 @@
     "历史-History/世界历史/3. 文艺复兴和探索时代/7. 早期殖民扩张.md",
     "历史-History/世界历史/3. 文艺复兴和探索时代/8. 文艺复兴.md",
     "历史-History/世界历史/4. 资本主义发展时期/10. 启蒙运动.md",
-    "地理-Geography/1. 自然地理/3. 气象地理/大气圈.md",
     "地理-Geography/1. 自然地理/3. 气象地理/attachments/surface-barometric-zones-Jan.png",
     "地理-Geography/1. 自然地理/3. 气象地理/attachments/surface-barometric-zones-Jul.png",
     "地理-Geography/1. 自然地理/3. 气象地理/attachments/Pasted image 20230713191644.png",
