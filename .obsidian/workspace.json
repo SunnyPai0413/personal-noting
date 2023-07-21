@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学-Mathematics/数学基础/2. 逻辑符号.md",
-                "mode": "preview",
+                "file": "English/Examination Skills/Listening.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数学-Mathematics/数学基础/2. 逻辑符号.md",
+                "file": "English/Examination Skills/Listening.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学-Mathematics/数学基础/2. 逻辑符号.md",
+                "file": "English/Examination Skills/Listening.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数学-Mathematics/数学基础/2. 逻辑符号.md"
+                "file": "English/Examination Skills/Listening.md"
               }
             }
           }
@@ -150,11 +150,12 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "149cc6b0cdf093a3",
+  "active": "da8a1f4f47c361c5",
   "lastOpenFiles": [
-    "English/未命名",
-    "English/未命名.md",
     "数学-Mathematics/数学基础/2. 逻辑符号.md",
+    "English/Examination Skills/Listening.md",
+    "English/Examination Skills",
+    "English/未命名.md",
     "数学-Mathematics/数学基础/3. 集合.md",
     "数学-Mathematics/数学基础/1. 公理系统.md",
     "语文/阅读/论述类文本.md",
@@ -176,7 +177,6 @@
     "历史-History/世界历史/5. 两次工业革命时期/14. 马克思主义的诞生和传播.md",
     "数学-Mathematics/数学基础",
     "数学-Mathematics",
-    "数学",
     "历史-History/世界历史/5. 两次工业革命时期/13. 工业革命.md",
     "历史-History/世界历史/4. 资本主义发展时期/11. 资产阶级革命.md",
     "历史-History/世界历史/4. 资本主义发展时期/12. 资本主义制度的确立和扩展.md",
