@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "地理-Geography/1. 自然地理/2. (古)地质地理/地球的地质.md",
-                "mode": "source",
+                "file": "数学-Mathematics/数学基础/3. 集合.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "地理-Geography/1. 自然地理/2. (古)地质地理/地球的地质.md",
+                "file": "数学-Mathematics/数学基础/3. 集合.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "地理-Geography/1. 自然地理/2. (古)地质地理/地球的地质.md",
+                "file": "数学-Mathematics/数学基础/3. 集合.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "地理-Geography/1. 自然地理/2. (古)地质地理/地球的地质.md"
+                "file": "数学-Mathematics/数学基础/3. 集合.md"
               }
             }
           }
@@ -152,10 +152,12 @@
   },
   "active": "da8a1f4f47c361c5",
   "lastOpenFiles": [
-    "地理-Geography/1. 自然地理/3. 气象地理/大气圈.md",
-    "数学-Mathematics/数学基础/3. 集合.md",
     "数学-Mathematics/数学基础/2. 逻辑符号.md",
     "数学-Mathematics/数学基础/1. 公理系统.md",
+    "语文/阅读/论述类文本.md",
+    "地理-Geography/1. 自然地理/2. (古)地质地理/地球的地质.md",
+    "地理-Geography/1. 自然地理/3. 气象地理/大气圈.md",
+    "数学-Mathematics/数学基础/3. 集合.md",
     "数学-Mathematics/符号和公式(LaTeX).md",
     "化学-Chemistry/模板.md",
     "数学-Mathematics/数学基础/attachments/Venn-diagram.png",
@@ -195,7 +197,6 @@
     "历史-History/世界历史/1. 古代文明时期/1. 古代文明.md",
     "历史-History/世界历史/1. 古代文明时期/2. 文明扩展和古代帝国.md",
     "化学-Chemistry/3. 元素及其化合物/Cl.md",
-    "地理-Geography/1. 自然地理/2. (古)地质地理/地球的地质.md",
     "地理-Geography/1. 自然地理/1. 天文地理/宇宙中的地球.md",
     "未命名 1.canvas",
     "未命名.canvas",
