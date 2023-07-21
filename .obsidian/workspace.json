@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学-Mathematics/数学基础/2. 逻辑符号.md",
+                "file": "数学-Mathematics/数学基础/3. 集合.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数学-Mathematics/数学基础/2. 逻辑符号.md",
+                "file": "数学-Mathematics/数学基础/3. 集合.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学-Mathematics/数学基础/2. 逻辑符号.md",
+                "file": "数学-Mathematics/数学基础/3. 集合.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数学-Mathematics/数学基础/2. 逻辑符号.md"
+                "file": "数学-Mathematics/数学基础/3. 集合.md"
               }
             }
           }
@@ -152,8 +152,8 @@
   },
   "active": "da8a1f4f47c361c5",
   "lastOpenFiles": [
-    "数学-Mathematics/数学基础/3. 集合.md",
     "数学-Mathematics/数学基础/2. 逻辑符号.md",
+    "数学-Mathematics/数学基础/3. 集合.md",
     "数学-Mathematics/数学基础/1. 公理系统.md",
     "语文/阅读/论述类文本.md",
     "地理-Geography/1. 自然地理/2. (古)地质地理/地球的地质.md",
