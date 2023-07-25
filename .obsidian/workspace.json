@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "历史-History/世界历史/6. 两次世界大战时期/18. 第二次世界大战.md",
+                "file": "历史-History/世界历史/1. 古代文明时期/2. 文明扩展和古代帝国.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "历史-History/世界历史/6. 两次世界大战时期/18. 第二次世界大战.md",
+                "file": "历史-History/世界历史/1. 古代文明时期/2. 文明扩展和古代帝国.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "历史-History/世界历史/6. 两次世界大战时期/18. 第二次世界大战.md",
+                "file": "历史-History/世界历史/1. 古代文明时期/2. 文明扩展和古代帝国.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "历史-History/世界历史/6. 两次世界大战时期/18. 第二次世界大战.md"
+                "file": "历史-History/世界历史/1. 古代文明时期/2. 文明扩展和古代帝国.md"
               }
             }
           }
@@ -152,15 +152,24 @@
   },
   "active": "da8a1f4f47c361c5",
   "lastOpenFiles": [
-    "历史-History/世界历史/6. 两次世界大战时期/17. 十月革命.md",
-    "历史-History/世界历史/6. 两次世界大战时期/16. 第一次世界大战.md",
-    "历史-History/世界历史/5. 两次工业革命时期/13. 工业革命.md",
-    "历史-History/世界历史/5. 两次工业革命时期/15. 资本主义世界殖民体系.md",
+    "历史-History/世界历史/1. 古代文明时期/1. 古代文明.md",
+    "历史-History/世界历史/2. 中古时期/3. 中古时期的欧洲.md",
+    "历史-History/世界历史/2. 中古时期/4. 中古时期的亚洲.md",
+    "历史-History/世界历史/2. 中古时期/5. 中古时期的非洲和美洲.md",
+    "历史-History/世界历史/3. 文艺复兴和探索时代/6. 新航路开辟.md",
+    "历史-History/世界历史/3. 文艺复兴和探索时代/7. 早期殖民扩张.md",
+    "历史-History/世界历史/3. 文艺复兴和探索时代/8. 文艺复兴.md",
+    "历史-History/世界历史/4. 资本主义发展时期/9. 宗教改革和科学革命.md",
+    "历史-History/世界历史/4. 资本主义发展时期/10. 启蒙运动.md",
+    "历史-History/世界历史/4. 资本主义发展时期/11. 资产阶级革命.md",
     "历史-History/世界历史/5. 两次工业革命时期/14. 马克思主义的诞生和传播.md",
     "历史-History/世界历史/4. 资本主义发展时期/12. 资本主义制度的确立和扩展.md",
+    "历史-History/世界历史/5. 两次工业革命时期/13. 工业革命.md",
+    "历史-History/世界历史/5. 两次工业革命时期/15. 资本主义世界殖民体系.md",
+    "历史-History/世界历史/6. 两次世界大战时期/16. 第一次世界大战.md",
+    "历史-History/世界历史/6. 两次世界大战时期/17. 十月革命.md",
     "历史-History/世界历史/6. 两次世界大战时期/18. 第二次世界大战.md",
     "历史-History/~$学考必备.docx",
-    "历史-History/世界历史/3. 文艺复兴和探索时代/7. 早期殖民扩张.md",
     "数学-Mathematics/数学基础/3. 集合.md",
     "数学-Mathematics/数学基础/2. 逻辑符号.md",
     "地理-Geography/1. 自然地理/3. 气象地理/大气圈.md",
@@ -171,14 +180,9 @@
     "English/未命名.md",
     "数学-Mathematics/数学基础/1. 公理系统.md",
     "语文/阅读/论述类文本.md",
-    "地理-Geography/1. 自然地理/2. (古)地质地理/地球的地质.md",
-    "数学-Mathematics/符号和公式(LaTeX).md",
-    "化学-Chemistry/模板.md",
     "数学-Mathematics/数学基础/attachments/Venn-diagram.png",
     "数学-Mathematics/数学基础/attachments/Pasted image 20230718150951.png",
     "数学-Mathematics/数学基础/attachments",
-    "English/Grammar/1. Generality.md",
-    "README.md",
     "English/Grammar",
     "English",
     "Englih/Grammar",
@@ -186,9 +190,6 @@
     "Englih",
     "新建文件夹",
     "数学-Mathematics/数学基础",
-    "历史-History/世界历史/4. 资本主义发展时期/11. 资产阶级革命.md",
-    "历史-History/世界历史/3. 文艺复兴和探索时代/8. 文艺复兴.md",
-    "历史-History/世界历史/4. 资本主义发展时期/10. 启蒙运动.md",
     "地理-Geography/1. 自然地理/3. 气象地理/attachments/surface-barometric-zones-Jan.png",
     "地理-Geography/1. 自然地理/3. 气象地理/attachments/surface-barometric-zones-Jul.png",
     "地理-Geography/1. 自然地理/3. 气象地理/attachments/Pasted image 20230713191644.png",
@@ -197,7 +198,6 @@
     "地理-Geography/1. 自然地理/3. 气象地理/attachments/Pasted image 20230713191524.png",
     "地理-Geography/1. 自然地理/3. 气象地理/attachments/January-wind-belt.png",
     "地理-Geography/1. 自然地理/3. 气象地理/attachments/July-wind-belt.png",
-    "历史-History/世界历史/4. 资本主义发展时期/9. 宗教改革和科学革命.md",
     "未命名 1.canvas",
     "未命名.canvas",
     "地理-Geography/未命名.canvas"
