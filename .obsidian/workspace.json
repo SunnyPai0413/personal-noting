@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "语文/阅读/论述类文本.md",
-                "mode": "preview",
+                "file": "语文/阅读/未命名.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "语文/阅读/论述类文本.md",
+                "file": "语文/阅读/未命名.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "语文/阅读/论述类文本.md",
+                "file": "语文/阅读/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "语文/阅读/论述类文本.md"
+                "file": "语文/阅读/未命名.md"
               }
             }
           }
@@ -152,6 +152,8 @@
   },
   "active": "da8a1f4f47c361c5",
   "lastOpenFiles": [
+    "语文/阅读/论述类文本.md",
+    "语文/阅读/未命名.md",
     "数学-Mathematics/数学基础/3. 集合.md",
     "数学-Mathematics/数学基础/2. 逻辑符号.md",
     "历史-History/世界历史/1. 古代文明时期/2. 文明扩展和古代帝国.md",
@@ -178,8 +180,6 @@
     "English/Examination Skills/1. Listening.md",
     "English/Examination Skills/3. Use of language.md",
     "English/Examination Skills",
-    "English/未命名.md",
-    "数学-Mathematics/数学基础/1. 公理系统.md",
     "数学-Mathematics/数学基础/attachments/Venn-diagram.png",
     "数学-Mathematics/数学基础/attachments/Pasted image 20230718150951.png",
     "数学-Mathematics/数学基础/attachments",
