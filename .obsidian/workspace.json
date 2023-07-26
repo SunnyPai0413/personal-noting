@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "语文/阅读/论述类文本.md",
+                "file": "语文/阅读/文学类文本-小说.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "语文/阅读/论述类文本.md",
+                "file": "语文/阅读/文学类文本-小说.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "语文/阅读/论述类文本.md",
+                "file": "语文/阅读/文学类文本-小说.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "语文/阅读/论述类文本.md"
+                "file": "语文/阅读/文学类文本-小说.md"
               }
             }
           }
@@ -152,8 +152,8 @@
   },
   "active": "da8a1f4f47c361c5",
   "lastOpenFiles": [
-    "语文/阅读/文学类文本-小说.md",
     "语文/阅读/论述类文本.md",
+    "语文/阅读/文学类文本-小说.md",
     "语文/阅读/attachments/Connections-between-the-Three-Elements-of-Novel.png",
     "语文/阅读/attachments/Relations-of-Three-Elements-of-Novel.png",
     "语文/阅读/attachments/Pasted image 20230726085851.png",
