@@ -7,14 +7,7 @@
   "leftRibbon": [],
   "rightRibbon": [],
   "titleBar": [],
-  "statusBar": [
-    {
-      "id": "obsidian-git:commit",
-      "icon": "arrow-right-circle",
-      "name": "Obsidian Git: Commit all changes",
-      "mode": "any"
-    }
-  ],
+  "statusBar": [],
   "pageHeader": [],
   "macros": [],
   "explorer": [],
