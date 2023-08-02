@@ -12,6 +12,8 @@
 子集 \subseteq
 真子集 \subsetneqq
 空集 \varnothing
+全部 \forall
+存在 \exists
 基数 \left\lvert A \right\rvert
 交集 \cap
 并集 \cup
