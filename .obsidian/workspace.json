@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "物理-Physics/1. 力学/动力学/1.1 参考系.md",
-                "mode": "preview",
+                "file": "物理-Physics/1. 力学/动力学/1. 基本概念/1.1 参考系.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "物理-Physics/1. 力学/动力学/1.1 参考系.md",
+                "file": "物理-Physics/1. 力学/动力学/1. 基本概念/1.1 参考系.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "物理-Physics/1. 力学/动力学/1.1 参考系.md",
+                "file": "物理-Physics/1. 力学/动力学/1. 基本概念/1.1 参考系.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "物理-Physics/1. 力学/动力学/1.1 参考系.md"
+                "file": "物理-Physics/1. 力学/动力学/1. 基本概念/1.1 参考系.md"
               }
             }
           }
@@ -150,8 +150,9 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "da8a1f4f47c361c5",
+  "active": "149cc6b0cdf093a3",
   "lastOpenFiles": [
+    "物理-Physics/1. 力学/动力学/1. 基本概念",
     "语文/阅读/论述类文本.md",
     "物理-Physics/5. 量子物理学",
     "物理-Physics/4. 光学",
@@ -161,7 +162,7 @@
     "物理-Physics/2. 电磁学/电动力学",
     "物理-Physics/2. 电磁学",
     "物理-Physics/力学/动力学/1.1 参考系.md",
-    "物理-Physics/1. 力学/动力学/1.1 参考系.md",
+    "物理-Physics/1. 力学/动力学/1. 基本概念/1.1 参考系.md",
     "物理-Physics/1. 力学/热力学",
     "物理-Physics/1. 力学/动力学",
     "物理-Physics/1. 力学",
