@@ -14,5 +14,6 @@
   "livePreview": false,
   "strictLineBreaks": false,
   "tabSize": 4,
-  "foldIndent": false
+  "foldIndent": false,
+  "showFrontmatter": false
 }
