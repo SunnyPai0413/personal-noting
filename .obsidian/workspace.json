@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "地理-Geography/1. 自然地理/3. 气象地理/大气圈.md",
-                "mode": "source",
+                "file": "地理-Geography/1. 自然地理/1. 天文地理/宇宙中的地球.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "地理-Geography/1. 自然地理/3. 气象地理/大气圈.md",
+                "file": "地理-Geography/1. 自然地理/1. 天文地理/宇宙中的地球.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "地理-Geography/1. 自然地理/3. 气象地理/大气圈.md",
+                "file": "地理-Geography/1. 自然地理/1. 天文地理/宇宙中的地球.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "地理-Geography/1. 自然地理/3. 气象地理/大气圈.md"
+                "file": "地理-Geography/1. 自然地理/1. 天文地理/宇宙中的地球.md"
               }
             }
           }
@@ -151,8 +151,9 @@
   },
   "active": "880329e3f26e5326",
   "lastOpenFiles": [
-    "化学-Chemistry/模板.md",
+    "地理-Geography/1. 自然地理/2. (古)地质地理/地球的地质.md",
     "地理-Geography/1. 自然地理/3. 气象地理/大气圈.md",
+    "化学-Chemistry/模板.md",
     "物理-Physics/1. 力学/1.1 动力学/1.1.2 位移、速度、加速度.md",
     "物理-Physics/1. 力学/1.1 动力学/1.1.3 匀变速直线.md",
     "物理-Physics/未完成.md",
@@ -177,7 +178,6 @@
     "物理-Physics/力/力学/动力学/1.1 参考系.md",
     "语文/阅读/文学类文本-小说.md",
     "物理-Physics/力/未命名.md",
-    "地理-Geography/1. 自然地理/2. (古)地质地理/地球的地质.md",
     "地理-Geography/1. 自然地理/1. 天文地理/宇宙中的地球.md",
     "地理-Geography/1. 自然地理/3. 气象地理/attachments/extratropical-cyclone.png",
     "地理-Geography/1. 自然地理/3. 气象地理/attachments/Pasted image 20230807150300.png",
