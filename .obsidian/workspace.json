@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "f3ceab1e2537c949",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "da8a1f4f47c361c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "化学-Chemistry/模板.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "65a70338d5dfc946",
         "type": "tabs",
         "children": [
@@ -31,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "化学-Chemistry/模板.md",
+                "file": "地理-Geography/1. 自然地理/3. 气象地理/大气圈.md",
                 "mode": "preview",
                 "source": true
               }
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "化学-Chemistry/模板.md",
+                "file": "地理-Geography/1. 自然地理/3. 气象地理/大气圈.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "化学-Chemistry/模板.md",
+                "file": "地理-Geography/1. 自然地理/3. 气象地理/大气圈.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "化学-Chemistry/模板.md"
+                "file": "地理-Geography/1. 自然地理/3. 气象地理/大气圈.md"
               }
             }
           }
@@ -164,16 +146,16 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "obsidian42-brat:BRAT": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "880329e3f26e5326",
   "lastOpenFiles": [
+    "化学-Chemistry/模板.md",
+    "地理-Geography/1. 自然地理/3. 气象地理/大气圈.md",
     "物理-Physics/1. 力学/1.1 动力学/1.1.2 位移、速度、加速度.md",
     "物理-Physics/1. 力学/1.1 动力学/1.1.3 匀变速直线.md",
     "物理-Physics/未完成.md",
-    "化学-Chemistry/模板.md",
     "物理-Physics/1. 力学/1.1 动力学/1.1.1 质点运动.md",
     "数学-Mathematics/符号和公式(LaTeX).md",
     "数学-Mathematics/数学基础/4. 函数.md",
@@ -195,7 +177,6 @@
     "物理-Physics/力/力学/动力学/1.1 参考系.md",
     "语文/阅读/文学类文本-小说.md",
     "物理-Physics/力/未命名.md",
-    "地理-Geography/1. 自然地理/3. 气象地理/大气圈.md",
     "地理-Geography/1. 自然地理/2. (古)地质地理/地球的地质.md",
     "地理-Geography/1. 自然地理/1. 天文地理/宇宙中的地球.md",
     "地理-Geography/1. 自然地理/3. 气象地理/attachments/extratropical-cyclone.png",
